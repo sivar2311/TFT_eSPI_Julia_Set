@@ -1,0 +1,1 @@
+Copy `User_Setup.h` into the TFT_eSPI folder (`./pio/libdeps/bpi_centi_s3/`)
