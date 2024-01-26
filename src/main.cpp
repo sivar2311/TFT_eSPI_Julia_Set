@@ -14,7 +14,6 @@ const uint16_t MAX_ITERATION = 300;  // Nombre de couleurs
 
 #define SCREEN_WIDTH  tft.width()   //
 #define SCREEN_HEIGHT tft.height()  // Taille de l'écran
-#define TFT_BL        2             // Backlight-led
 
 static float zoom = 0.5;
 
